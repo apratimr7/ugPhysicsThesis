@@ -1,0 +1,161 @@
+\documentclass[12pt]{report}
+\pdfoutput=1
+
+%----PACKAGES----%
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage[a4paper]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+% \usepackage[Bjornstrup]{fncychap}
+\usepackage{titlesec}
+\usepackage{lastpage}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{mathrsfs}
+\usepackage{calrsfs}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{dutchcal}
+\usepackage{cancel}
+\usepackage{float}
+
+\usepackage{sectsty}
+\usepackage{tikz}
+
+%\usepackage{arydshln}
+\usepackage[useregional]{datetime2}
+\graphicspath{ {./imgs/} }
+
+\usepackage{titlesec}
+
+\usepackage{subcaption}
+
+\usepackage{setspace}
+\usepackage[skip=10pt plus1pt, indent=40pt]{parskip}
+
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage{cleveref}
+%----------------%
+
+%----------HYPERREF CONFIG----------%
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    citecolor=red,
+}
+
+%----GEOMETRY----%
+\topmargin 0.05cm
+\textheight 22.5cm
+\oddsidemargin -.125cm
+\textwidth 16cm
+%----------------%
+
+% ------ Styling ---------%
+\setlength{\headheight}{15pt}
+% \fancyhead{}
+% \headheight{14pt}
+% \setlength{\parindent}{1cm}
+% \ChTitleVar{\Large\sc}
+
+% \onehalfspacing
+\doublespacing
+
+%% Chapter heading styling
+% \titleformat{\chapter}[frame]{\Huge\bfseries}%{label}{sep}{before-code}
+
+% \definecolor{gray75}{gray}{0.75}
+% \newcommand{\hsp}{\hspace{0pt}}
+% \titleformat{\chapter}[hang]{\Huge\bfseries}{\chapaap\hsp\textcolor{gray75}{:}\hsp}{0pt}{\Huge\bfseries}
+
+% Custom font for chapters
+\allsectionsfont{\sffamily}
+
+% % Define colors
+\definecolor{chaptercolor}{RGB}{0,0,0} % Adjust color to your liking
+
+% Custom chapter style
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries\huge\color{chaptercolor}}
+  {\filleft\Huge\chaptertitlename\ \thechapter}
+  {1ex}
+  {\vspace{0.5ex}\filright}
+  [\vspace{1ex}\titlerule]
+
+% Adjust spacing before and after chapter titles
+\titlespacing*{\chapter}{0pt}{-40pt}{20pt} % Adjust as needed
+
+% % Define custom colors
+% \definecolor{chaptergrey}{gray}{2.0}
+% \definecolor{chapterblue}{RGB}{0, 102, 204}
+
+% % Custom chapter style
+% \titleformat{\chapter}[block]
+%   {\normalfont\LARGE\bfseries\color{gray}}
+%   {\thechapter}{20pt}{\Huge}
+%   [\vspace{1ex}\titlerule]
+
+% % Space before and after chapter titles
+% \titlespacing*{\chapter}{0pt}{*2}{*1.5}
+
+%----DOCUMENT STARTS------%
+\begin{document}
+% \maketitle
+\input{titlepage.tex}
+
+\chapter*{\centering \Large Abstract}
+\input{abstract.tex}
+\addcontentsline{toc}{chapter}{Abstract}
+
+\newpage
+\clearpage
+\thispagestyle{empty}  % Removes page number from the dedication page
+\vspace*{\fill}
+\begin{center}
+    \textit{ % Italics
+        Dedicated to, \\
+        my family and my mentors
+        for their constant support and encouragement.\\ \vspace*{0.5cm}
+        This thesis is also dedicated to the memory of my beloved grandmother,\\
+        Kiran Rastogi,\\
+        whose love, wisdom, and guidance have always been a source of inspiration.\\
+        Her unwavering confidence in me and my abilities have been instrumental in my life\\
+        She is dearly missed and forever cherished.
+    }
+\end{center}
+\vspace*{\fill}
+
+
+\chapter*{Declaration}
+\input{declarations.tex}
+\addcontentsline{toc}{chapter}{Declaration}
+
+\chapter*{Acknowledgements}
+\input{Acknowledgements.tex}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+
+\tableofcontents
+
+\chapter{Introduction}\label{chap:Introduction}
+\input{chap 1 (Intro)}
+
+\chapter{System and Methodology}\label{chap:Methodology}
+\input{chap 2 (Methodology)}
+
+\chapter{Results}\label{chap:Results and Discussions}
+\input{chap 3 (Analysis)}
+
+\chapter*{Conclusion}\label{chap:Conclusion}
+\input{chap 4 (Conclusion)}
+\addcontentsline{toc}{chapter}{Conclusion}
+
+\bibliographystyle{unsrt}
+\singlespacing
+\bibliography{refs}
+
+
+\end{document}

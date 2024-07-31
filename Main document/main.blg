@@ -1,0 +1,113 @@
+This is BibTeX, Version 0.99d (TeX Live 2024/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: unsrt.bst
+Database file #1: refs.bib
+Warning--entry type for "ComplexGinzburgLandauEquation" isn't style-file defined
+--line 254 of file refs.bib
+Warning--entry type for "russellReportWavesMade" isn't style-file defined
+--line 754 of file refs.bib
+Warning--empty year in feldmanChaosFractalsElementary2012
+Warning--empty year in lakshmananNonlinearDynamics2003
+Warning--empty year in strogatzNonlinearDynamicsChaos2018
+Warning--empty journal in ackemannFundamentalsApplicationsSpatial
+Warning--empty year in ackemannFundamentalsApplicationsSpatial
+Warning--empty journal in lugiatoIntroductionFeatureSection2003
+Warning--empty year in lugiatoIntroductionFeatureSection2003
+Warning--empty year in newellNonlinearOptics1992
+Warning--empty year in firthTheoryCavitySolitons2001
+Warning--empty journal in barlandCavitySolitonsPixels2002
+Warning--empty year in barlandCavitySolitonsPixels2002
+Warning--empty journal in firthDynamicalPropertiesTwodimensional2002
+Warning--empty year in firthDynamicalPropertiesTwodimensional2002
+Warning--empty journal in mcsloyComputationallyDeterminedExistence2002
+Warning--empty year in mcsloyComputationallyDeterminedExistence2002
+Warning--empty journal in bacheCavitySolitonLaser2005a
+Warning--empty year in bacheCavitySolitonLaser2005a
+Warning--empty journal in genevetCavitySolitonLaser2008
+Warning--empty year in genevetCavitySolitonLaser2008
+Warning--empty journal in barbayCavitySolitonsVCSEL2011
+Warning--empty year in barbayCavitySolitonsVCSEL2011
+Warning--empty journal in songRecentProgressStudy2019
+Warning--empty year in songRecentProgressStudy2019
+Warning--empty journal in aghdamiTwodimensionalDiscreteCavity2012
+Warning--empty year in aghdamiTwodimensionalDiscreteCavity2012
+Warning--empty journal in eslamiAllOpticalLogic2012
+Warning--empty year in eslamiAllOpticalLogic2012
+Warning--empty journal in ghadiAllopticalComputingCircuits2021
+Warning--empty year in ghadiAllopticalComputingCircuits2021
+Warning--empty journal in mcmahonPhysicsOpticalComputing2023
+Warning--empty year in mcmahonPhysicsOpticalComputing2023
+Warning--empty journal in randComputingSolitons2009
+Warning--empty year in randComputingSolitons2009
+Warning--empty journal in aransonWorldComplexGinzburgLandau2002
+Warning--empty year in aransonWorldComplexGinzburgLandau2002
+Warning--empty year in firthCavitySolitonProperties2009
+Warning--empty year in hachairCavitySolitonsBroad2004
+Warning--empty booktitle in ackemannRealizationCavitysolitonLaser2007
+Warning--empty year in ackemannRealizationCavitysolitonLaser2007
+Warning--empty journal in paulauDriftingInstabilitiesCavity2009
+Warning--empty year in paulauDriftingInstabilitiesCavity2009
+Warning--empty journal in chatePhaseDiagramTwodimensional1996
+Warning--empty year in chatePhaseDiagramTwodimensional1996
+Warning--empty journal in mayteevarunyooOneTwodimensionalModes2018
+Warning--empty year in mayteevarunyooOneTwodimensionalModes2018
+Warning--empty journal in nagiBroadbandCavitySoliton2022
+Warning--empty year in nagiBroadbandCavitySoliton2022
+Warning--empty journal in kaurGenerationDynamicsOne2017a
+Warning--empty year in kaurGenerationDynamicsOne2017a
+Warning--empty journal in kaurCavitySolitonMolecules2018
+Warning--empty year in kaurCavitySolitonMolecules2018
+Warning--empty year in agrawalNonlinearFiberOptics2001
+Warning--empty journal in ablowitzInverseScatteringTransformFourier1974
+Warning--empty year in ablowitzInverseScatteringTransformFourier1974
+Warning--empty journal in wangEfficientSplitstepCompact2013
+Warning--empty year in wangEfficientSplitstepCompact2013
+Warning--empty journal in goldmanNovelMethodSimulating1995
+Warning--empty year in goldmanNovelMethodSimulating1995
+Warning--empty journal in sunPatternTransformationControl
+Warning--empty year in sunPatternTransformationControl
+Warning--empty journal in kulikovEquilibriumStatesVariational2017
+Warning--empty year in kulikovEquilibriumStatesVariational2017
+You've used 37 entries,
+            1791 wiz_defined-function locations,
+            660 strings with 11531 characters,
+and the built_in function-call counts, 8692 in all, are:
+= -- 694
+> -- 423
+< -- 5
++ -- 156
+- -- 119
+* -- 689
+:= -- 1327
+add.period$ -- 108
+call.type$ -- 37
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 99
+duplicate$ -- 371
+empty$ -- 842
+format.name$ -- 119
+if$ -- 1854
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 40
+newline$ -- 181
+num.names$ -- 38
+pop$ -- 184
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 175
+stack$ -- 0
+substring$ -- 590
+swap$ -- 48
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 62
+while$ -- 84
+width$ -- 39
+write$ -- 331
+(There were 64 warnings)

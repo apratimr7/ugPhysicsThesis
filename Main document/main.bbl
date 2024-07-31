@@ -1,0 +1,181 @@
+\begin{thebibliography}{10}
+
+\bibitem{feldmanChaosFractalsElementary2012}
+David~P. Feldman.
+\newblock {\em Chaos and {{Fractals}}: {{An Elementary Introduction}}}.
+\newblock Oxford University Press.
+
+\bibitem{lakshmananNonlinearDynamics2003}
+M.~Lakshmanan and S.~Rajasekar.
+\newblock {\em Nonlinear {{Dynamics}}}.
+\newblock Advanced {{Texts}} in {{Physics}}. Springer Berlin Heidelberg.
+
+\bibitem{strogatzNonlinearDynamicsChaos2018}
+Steven~H. Strogatz.
+\newblock {\em Nonlinear {{Dynamics}} and {{Chaos}}}.
+\newblock CRC Press, 0 edition.
+
+\bibitem{ackemannFundamentalsApplicationsSpatial}
+T~Ackemann and W~J Firth.
+\newblock Fundamentals and {{Applications}} of {{Spatial Dissipative Solitons}} in {{Photonic Devices}}.
+
+\bibitem{lugiatoIntroductionFeatureSection2003}
+L.A. Lugiato.
+\newblock Introduction to the feature section on cavity solitons: {{An}} overview.
+\newblock 39(2):193--196.
+
+\bibitem{russellReportWavesMade}
+John Russell.
+\newblock Report on {{Waves}}: {{Made}} to the {{Meetings}} of the {{British Association}} in 1842-43 - {{John Scott Russell}} - {{Google Books}}.
+
+\bibitem{newellNonlinearOptics1992}
+Alan~C. Newell and Jerome~V. Moloney.
+\newblock {\em Nonlinear Optics}.
+\newblock Advanced Topics in the Interdisciplinary Mathematical Sciences. Addison-Wesley.
+
+\bibitem{firthTheoryCavitySolitons2001}
+William~J. Firth.
+\newblock Theory of {{Cavity Solitons}}.
+\newblock In A.~D. Boardman and A.~P. Sukhorukov, editors, {\em Soliton-Driven {{Photonics}}}, pages 459--485. Springer Netherlands.
+
+\bibitem{barlandCavitySolitonsPixels2002}
+Stephane Barland, Jorge~R. Tredicce, Massimo Brambilla, Luigi~A. Lugiato, Salvador Balle, Massimo Giudici, Tommaso Maggipinto, Lorenzo Spinelli, Giovanna Tissoni, Thomas Knödl, Michael Miller, and Roland Jäger.
+\newblock Cavity solitons as pixels in semiconductor microcavities.
+\newblock 419(6908):699--702.
+
+\bibitem{firthDynamicalPropertiesTwodimensional2002}
+William~J. Firth, Graeme~K. Harkness, Angus Lord, John~M. McSloy, Damià Gomila, and Pere Colet.
+\newblock Dynamical properties of two-dimensional {{Kerr}} cavity solitons.
+\newblock 19(4):747--752.
+
+\bibitem{mcsloyComputationallyDeterminedExistence2002}
+J.~M. McSloy, W.~J. Firth, G.~K. Harkness, and G.-L. Oppo.
+\newblock Computationally determined existence and stability of transverse structures. {{II}}. {{Multipeaked}} cavity solitons.
+\newblock 66(4):046606.
+
+\bibitem{bacheCavitySolitonLaser2005a}
+M.~Bache, F.~Prati, G.~Tissoni, R.~Kheradmand, L.A. Lugiato, I.~Protsenko, and M.~Brambilla.
+\newblock Cavity soliton laser based on {{VCSEL}} with saturable absorber.
+\newblock 81(7):913--920.
+
+\bibitem{genevetCavitySolitonLaser2008}
+Patrice Genevet, Stéphane Barland, Massimo Giudici, and Jorge~R. Tredicce.
+\newblock Cavity {{Soliton Laser}} based on mutually coupled semiconductor microresonators.
+
+\bibitem{barbayCavitySolitonsVCSEL2011}
+S.~Barbay, R.~Kuszelewicz, and J.~R. Tredicce.
+\newblock Cavity {{Solitons}} in {{VCSEL Devices}}.
+\newblock 2011:1--23.
+
+\bibitem{songRecentProgressStudy2019}
+Yufeng Song, Xujie Shi, Chengfa Wu, Dingyuan Tang, and Han Zhang.
+\newblock Recent progress of study on optical solitons in fiber lasers.
+\newblock 6(2):021313.
+
+\bibitem{aghdamiTwodimensionalDiscreteCavity2012}
+K.~M. Aghdami, M.~Golshani, and R.~Kheradmand.
+\newblock Two-dimensional discrete cavity solitons: Switching and all-optical gates.
+\newblock 4(4):1147--1154.
+
+\bibitem{eslamiAllOpticalLogic2012}
+Mansour Eslami and Reza Kheradmand.
+\newblock All optical logic gates based on cavity solitons with nonlinear gain.
+\newblock 19(4):242--246.
+
+\bibitem{ghadiAllopticalComputingCircuits2021}
+Amin Ghadi.
+\newblock All-optical computing circuits half-subtractor and comparator based on soliton interactions.
+\newblock 227:166079.
+
+\bibitem{mcmahonPhysicsOpticalComputing2023}
+Peter~L. McMahon.
+\newblock The physics of optical computing.
+\newblock 5(12):717--734.
+
+\bibitem{randComputingSolitons2009}
+Darren Rand and Kenneth Steiglitz.
+\newblock Computing with {{Solitons}}.
+\newblock 2:1376--1395.
+
+\bibitem{aransonWorldComplexGinzburgLandau2002}
+Igor Aranson and Lorenz Kramer.
+\newblock The {{World}} of the {{Complex Ginzburg-Landau Equation}}.
+\newblock 74(1):99--143.
+
+\bibitem{firthCavitySolitonProperties2009}
+William~J. Firth, Damia Gomila, and Pavel~V. Paulau.
+\newblock Cavity soliton properties and dynamics in a {{VCSEL}} with frequency-filtered feedback.
+\newblock In {\em {{CLEO}}/{{Europe}} - {{EQEC}} 2009 - {{European Conference}} on {{Lasers}} and {{Electro-Optics}} and the {{European Quantum Electronics Conference}}}, pages 1--1.
+
+\bibitem{hachairCavitySolitonsBroad2004}
+Xavier Hachair, Stephane Barland, Luca Furfaro, Massimo Giudici, Salvador Balle, Jorge~R. Tredicce, Massimo Brambilla, Tommaso Maggipinto, Ida~M. Perrini, Giovanna Tissoni, and Luigi Lugiato.
+\newblock Cavity solitons in broad area {{VCSELs}} below threshold.
+\newblock In {\em Semiconductor {{Lasers}} and {{Laser Dynamics}}}, volume 5452, pages 323--334. SPIE.
+
+\bibitem{ackemannRealizationCavitysolitonLaser2007}
+T.~Ackemann, Y.~Tanguy, A.~Scroggie, A.~Yao, W.~J. Firth, G.-L. Oppo, P.~Paulau, A.~V. Naumenko, N.~A. Loiko, and R.~Jaeger.
+\newblock Realization of a cavity-soliton laser based on broad-area vertical-cavity devices with frequency-selective feedback: {{Progress}} in {{Electromagnetics Research Symposium}} ({{PIERS}} 2007).
+\newblock pages 1175--1177.
+
+\bibitem{paulauDriftingInstabilitiesCavity2009}
+P.~V. Paulau, D.~Gomila, P.~Colet, M.~A. Matías, N.~A. Loiko, and W.~J. Firth.
+\newblock Drifting instabilities of cavity solitons in vertical-cavity surface-emitting lasers with frequency-selective feedback.
+\newblock 80(2):023808.
+
+\bibitem{chatePhaseDiagramTwodimensional1996}
+Hugues Chaté and Paul Manneville.
+\newblock Phase diagram of the two-dimensional complex {{Ginzburg-Landau}} equation.
+\newblock 224(1-2):348--368.
+
+\bibitem{ComplexGinzburgLandauEquation}
+The complex {{Ginzburg-Landau}} equation.
+
+\bibitem{mayteevarunyooOneTwodimensionalModes2018}
+Thawatchai Mayteevarunyoo, Boris~A. Malomed, and Dmitry~V. Skryabin.
+\newblock One- and two-dimensional modes in the complex {{Ginzburg-Landau}} equation with a trapping potential.
+\newblock 26(7):8849.
+
+\bibitem{nagiBroadbandCavitySoliton2022}
+Jaspreet~Kaur Nagi.
+\newblock Broadband cavity soliton with graphene saturable absorber.
+
+\bibitem{kaurGenerationDynamicsOne2017a}
+Baldeep Kaur and Soumendu Jana.
+\newblock Generation and dynamics of one- and two-dimensional cavity solitons in a vertical-cavity surface-emitting laser with a saturable absorber and frequency-selective feedback.
+\newblock 34(7):1374.
+
+\bibitem{kaurCavitySolitonMolecules2018}
+Baldeep Kaur and Soumendu Jana.
+\newblock Cavity {{Soliton Molecules}} and {{All-Optical Push-Broom Effect}}.
+\newblock 36(12).
+
+\bibitem{agrawalNonlinearFiberOptics2001}
+Govind~P. Agrawal.
+\newblock {\em Nonlinear Fiber Optics}.
+\newblock Academic Press, 3rd ed edition.
+
+\bibitem{ablowitzInverseScatteringTransformFourier1974}
+Mark~J. Ablowitz, David~J. Kaup, Alan~C. Newell, and Harvey Segur.
+\newblock The {{Inverse Scattering Transform-Fourier Analysis}} for {{Nonlinear Problems}}.
+\newblock 53(4):249--315.
+
+\bibitem{wangEfficientSplitstepCompact2013}
+Shanshan Wang and Luming Zhang.
+\newblock An efficient split-step compact finite difference method for cubic–quintic complex {{Ginzburg}}–{{Landau}} equations.
+\newblock 184(6):1511--1521.
+
+\bibitem{goldmanNovelMethodSimulating1995}
+Daniel Goldman and Lawrence Sirovich.
+\newblock A novel method for simulating the complex {{Ginzburg-Landau}} equation.
+\newblock 53(2):315--333.
+
+\bibitem{sunPatternTransformationControl}
+Zhuoyue Sun, Duo Deng, and Zhenjun Yang.
+\newblock Pattern transformation and control of generalized multi-peak breathing solitons induced by transverse cross modulation.
+
+\bibitem{kulikovEquilibriumStatesVariational2017}
+A~N Kulikov and D~A Kulikov.
+\newblock Equilibrium states of a variational formulation for the {{Ginzburg-Landau}} equation.
+\newblock 937:012025.
+
+\end{thebibliography}

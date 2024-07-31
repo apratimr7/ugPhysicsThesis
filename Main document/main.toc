@@ -1,0 +1,23 @@
+\contentsline {chapter}{Abstract}{1}{chapter*.1}%
+\contentsline {chapter}{Declaration}{3}{chapter*.2}%
+\contentsline {chapter}{Acknowledgements}{4}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objective}{10}{section.1.3}%
+\contentsline {chapter}{\numberline {2}System and Methodology}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}System}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Mathematical modeling}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Approach}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Split-step Fourier Method (SSFM)}{14}{subsection.2.3.1}%
+\contentsline {subsubsection}{Advantages and Applications}{16}{section*.6}%
+\contentsline {chapter}{\numberline {3}Results}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1} Generation of Cavity solitons}{17}{section.3.1}%
+\contentsline {paragraph}{Assumptions:}{18}{section*.8}%
+\contentsline {subsection}{\numberline {3.1.1}Sinc potential with Gaussian wave profile:}{18}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}TCMSG potential with Gaussian wave profile:}{20}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Sinc potential with TCMSG wave profile:}{21}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}WGM like potential with Gaussian wave profile:}{22}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Stability Analysis}{23}{section.3.2}%
+\contentsline {paragraph}{Results:}{27}{section*.18}%
+\contentsline {chapter}{Conclusion}{29}{chapter*.19}%
